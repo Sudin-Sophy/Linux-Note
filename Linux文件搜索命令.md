@@ -25,7 +25,7 @@ find /etc -cmin -5 在/etc下查找5分钟内被修改过属性的文件和目�
 find /etc -name inittab -exec ls -l {} \；<br/>
 在/etc下查找inittab文件并显示其详细信息<br/>
 >-exec/ok（依次询问是否操作）<br/>
-{} \:对搜索结果执行操作<br/>
+{} \\:对搜索结果执行操作<br/>
 
 -type 按类型查找（f文件；d目录；l软链接文件）（可与-a；-o结合使用）<br/>
 -inum 根据i节点查找<br/>
