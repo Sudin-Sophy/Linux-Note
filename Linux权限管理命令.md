@@ -14,5 +14,5 @@ chmod 640 GuiZhou.list<br/>
 删除文件的条件是对这个文件所在的目录有写权限<br/>
 文件的写权限只是能修改文件内容<br/>
 
-![权限含义](https://github.com/Sudin-Sophy/Linux-Note/blob/master/1.png?raw=true)
+![权限含义](https://github.com/Sudin-Sophy/Linux-Note/blob/master/%E6%9D%83%E9%99%90%E5%AD%97%E7%AC%A6%E5%90%AB%E4%B9%89.png)
 
