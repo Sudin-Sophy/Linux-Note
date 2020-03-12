@@ -43,7 +43,7 @@ r：读&emsp;w：写&emsp;x：执行<br/>
 &emsp;&emsp;&emsp;cp -rp /tmp/GuiZhou/GuiYang /tmp/GuiZhou/LiuPanShui /root <br/>
 将/tmp/GuiZhou目录下的GuiYang和LiuPanShui目录复制到/root下，保留目录属性<br/>
 ***
-**7.**命令名称：mv——move<br/>
+**7.** 命令名称：mv——move<br/>
 功能描述：截切文件、改名<br/>
 语法：mv[原文件或目录][目标目录]（可改名，如mv /tmp/GuiZhou/GuiYang /root/guiyang）<br/>
 范例：mv /tmp/GuiZhou/Guiyang /root&emsp;将/tmp/GuiZhou/GuiYang剪切到/root<br/>
